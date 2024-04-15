@@ -25,7 +25,7 @@ Este proyecto es una API para administrar información sobre películas. Permite
 
 2. **Aprender a hacer consultas con PostgreSQL**:
    - Familiarizarse con la sintaxis de consulta de PostgreSQL.
-   - Aprender a utilizar el controlador psycopg2 para interactuar con PostgreSQL desde Python.
+   - Aprender a utilizar el controlador psycopg3 para interactuar con PostgreSQL desde Python.
 
 3. **CRUD Python**:
    - Implementar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) utilizando Python y PostgreSQL.

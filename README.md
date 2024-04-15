@@ -1,6 +1,6 @@
 # CRUD-PYTHON-POSTGRES
 
-# API de Películas
+# API de una Tienda
 
 Este proyecto es una API para administrar información sobre películas. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una base de datos de películas utilizando FastAPI y PostgreSQL.
 

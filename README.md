@@ -9,6 +9,10 @@ Este proyecto es una API para administrar información sobre películas. Permite
 - **FastAPI**: Un marco web moderno y rápido para Python.
 - **PostgreSQL**: Un sistema de gestión de bases de datos relacional de código abierto y potente.
 
+## Video
+
+- [Video Tienda Informatica ](https://drive.google.com/drive/folders/1MNw4aYyVA3TaxgGqma47Gp3qmHGDKwG8?usp=sharing) - Carpeta donde estan todos los videos de esta practica
+
 ## Endpoints
 
 - `GET /films`: Obtiene todas las películas.
